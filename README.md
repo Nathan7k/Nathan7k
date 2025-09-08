@@ -1,7 +1,7 @@
 ## Olá! Eu Sou o Nathan Carvalho 👋
 
 
-- 🌱Estudando Html, Css, Javascript e Python
+- 🌱Estudando Html, Css, Javascript. Python e php
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
