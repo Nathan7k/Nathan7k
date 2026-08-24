@@ -1,28 +1,58 @@
 <div align="center">
-Nathan Carvalho
-DevOps Engineer | Infraestrutura de TI
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem
+# Nathan Carvalho
+### DevOps Engineer | Infraestrutura de TI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan7-carvalho)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO_INSTAGRAM)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 </div>
-Sobre
+
+---
+
+## Sobre
 
 Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, observabilidade, orquestração de containers e administração de servidores. Experiência prática em ambientes híbridos (Linux e Windows Server), automação de processos e gestão de redes e segurança perimetral.
 
-Stack Técnica
-Área	Ferramentas
-Monitoramento & Observabilidade	Zabbix, Grafana, New Relic
-Orquestração & Containers	Kubernetes
-Redes & Segurança	pfSense
-Sistemas Operacionais	Linux, Windows Server
-Automação & Linguagens	Python
+---
+
+## Stack Técnica
+
+| Área | Ferramentas |
+|---|---|
+| Monitoramento & Observabilidade | Zabbix, Grafana, New Relic |
+| Orquestração & Containers | Kubernetes |
+| Redes & Segurança | pfSense |
+| Sistemas Operacionais | Linux, Windows Server |
+| Automação & Linguagens | Python |
+
 <div align="center">
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
-GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathan7k&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan7k&theme=default" alt="GitHub Streak" height="165"/> </div>
-Contato
 
-E-mail: Nathan7kban@gmail.com · LinkedIn: in/nathan7-carvalho
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nathan7k&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan7k&theme=default" alt="GitHub Streak" height="165"/>
+
+</div>
+
+---
+
+## Contato
+
+E-mail: seu-email@gmail.com · LinkedIn: [in/nathan7-carvalho](https://linkedin.com/in/nathan7-carvalho)
