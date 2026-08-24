@@ -16,7 +16,7 @@
 Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, observabilidade, orquestração de containers e administração de servidores. Experiência prática em ambientes híbridos (Linux e Windows Server), automação de processos e gestão de redes e segurança.
 
 ---
-
+## Stacks
 <div align="center">
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
