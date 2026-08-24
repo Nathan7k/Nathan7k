@@ -1,22 +1,28 @@
-## Olá! Eu Sou o Nathan Carvalho 
+<div align="center">
+Nathan Carvalho
+DevOps Engineer | Infraestrutura de TI
 
+Mostrar Imagem Mostrar Imagem Mostrar Imagem
 
-- Estudando Html, Css, Javascript. Python e php
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Nathan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/nathan_7k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nathan7kban@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan7-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+Sobre
+
+Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, observabilidade, orquestração de containers e administração de servidores. Experiência prática em ambientes híbridos (Linux e Windows Server), automação de processos e gestão de redes e segurança perimetral.
+
+Stack Técnica
+Área	Ferramentas
+Monitoramento & Observabilidade	Zabbix, Grafana, New Relic
+Orquestração & Containers	Kubernetes
+Redes & Segurança	pfSense
+Sistemas Operacionais	Linux, Windows Server
+Automação & Linguagens	Python
+<div align="center">
+
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
 </div>
+GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nathan7k&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan7k&theme=default" alt="GitHub Streak" height="165"/> </div>
+Contato
+
+E-mail: Nathan7kban@gmail.com · LinkedIn: in/nathan7-carvalho
