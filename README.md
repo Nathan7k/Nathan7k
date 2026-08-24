@@ -17,16 +17,6 @@ Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, o
 
 ---
 
-## Stack Técnica
-
-| Área | Ferramentas |
-|---|---|
-| Monitoramento & Observabilidade | Zabbix, Grafana, New Relic |
-| Orquestração & Containers | Kubernetes |
-| Redes & Segurança | pfSense |
-| Sistemas Operacionais | Linux, Windows Server |
-| Automação & Linguagens | Python |
-
 <div align="center">
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
