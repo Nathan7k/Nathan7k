@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nathan Carvalho
-### DevOps Engineer | Infraestrutura de TI
+### DevOps | Infraestrutura de TI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan7-carvalho)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO_INSTAGRAM)
@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, observabilidade, orquestração de containers e administração de servidores. Experiência prática em ambientes híbridos (Linux e Windows Server), automação de processos e gestão de redes e segurança perimetral.
+Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, observabilidade, orquestração de containers e administração de servidores. Experiência prática em ambientes híbridos (Linux e Windows Server), automação de processos e gestão de redes e segurança.
 
 ---
 
@@ -40,19 +40,7 @@ Profissional de DevOps e Infraestrutura de TI, com atuação em monitoramento, o
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nathan7k&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathan7k&theme=default" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
 
 ## Contato
 
-E-mail: seu-email@gmail.com · LinkedIn: [in/nathan7-carvalho](https://linkedin.com/in/nathan7-carvalho)
+E-mail: Nathan7kban@gmail.com · LinkedIn: [in/nathan7-carvalho](https://linkedin.com/in/nathan7-carvalho)
